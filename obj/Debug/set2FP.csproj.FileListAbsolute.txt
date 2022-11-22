@@ -1,0 +1,8 @@
+C:\Users\40760\OneDrive\Desktop\vsc\set2FP\set2FP\obj\Debug\set2FP.csproj.AssemblyReference.cache
+C:\Users\40760\OneDrive\Desktop\vsc\set2FP\set2FP\obj\Debug\set2FP.csproj.SuggestedBindingRedirects.cache
+C:\Users\40760\OneDrive\Desktop\vsc\set2FP\set2FP\obj\Debug\set2FP.csproj.CoreCompileInputs.cache
+C:\Users\40760\OneDrive\Desktop\vsc\set2FP\set2FP\bin\Debug\set2FP.exe.config
+C:\Users\40760\OneDrive\Desktop\vsc\set2FP\set2FP\bin\Debug\set2FP.exe
+C:\Users\40760\OneDrive\Desktop\vsc\set2FP\set2FP\bin\Debug\set2FP.pdb
+C:\Users\40760\OneDrive\Desktop\vsc\set2FP\set2FP\obj\Debug\set2FP.exe
+C:\Users\40760\OneDrive\Desktop\vsc\set2FP\set2FP\obj\Debug\set2FP.pdb
